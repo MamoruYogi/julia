@@ -1,2 +1,2 @@
-# julia
-test
+# Julia の使用例
+プログラミング言語Juliaの使用法を書いています。
